@@ -26,9 +26,9 @@ There are 4 commands to use LIRI from the CLI:
 3.  movie-this
 
     * Will search for the specified movie and return the title matching the search, it year, rating, country of origin, languages available, plot, and actors in it.
-    [alt text](images/movie-this.png)
+    ![alt text](images/movie-this.png)
 
 4.  do-what-it-says
 
     * Will complete the specified search command and query written in the "random.txt" file
-    [alt text] (images/do-what-says.png)
+    ![alt text](images/do-what-says.png)
